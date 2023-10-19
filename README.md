@@ -26,7 +26,7 @@ Landmark Detection using Google cloud vision API detects popular natural and hum
 - **a Google Cloud Vision API Key**
 - **a Google Cloud account with Cloud Vision API enable**
 
-**Pease refer to the 'Advanced Usage' section for guidance on how to set these up.**
+**Please refer to the 'Advanced Usage' section for guidance on how to set these up.**
 
 
 ![Face detection landmarks](https://raw.githubusercontent.com/Ikomia-hub/infer_google_vision_landmark_detection/main/images/output.jpg)
@@ -59,7 +59,7 @@ algo = wf.add_task(name="infer_google_vision_landmark_detection", auto_connect=T
 
 # Set parameters
 algo.set_parameters({
-    'google_application_credentials':'PATH/TO/YOUR/GOOGLE/CLOUD/VISION/API/KEY.json '
+    'google_application_credentials':'PATH/TO/YOUR/GOOGLE/CLOUD/VISION/API/KEY.json'
 })
 
 # Run on your image
@@ -99,7 +99,7 @@ algo = wf.add_task(name="infer_google_vision_landmark_detection", auto_connect=T
 
 # Set parameters
 algo.set_parameters({
-    'google_application_credentials':'PATH/TO/YOUR/GOOGLE/CLOUD/VISION/API/KEY.json '
+    'google_application_credentials':'PATH/TO/YOUR/GOOGLE/CLOUD/VISION/API/KEY.json'
 })
 
 # Run on your image
