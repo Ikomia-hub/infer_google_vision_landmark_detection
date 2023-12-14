@@ -10,7 +10,7 @@
     <a href="https://app.ikomia.ai/hub/">
         <img alt="Website" src="https://img.shields.io/website/http/app.ikomia.ai/en.svg?down_color=red&down_message=offline&up_message=online">
     </a>
-    <a href="https://github.com/Ikomia-hub/infer_google_vision_landmark_detection/blob/main/LICENSE.md">
+    <a href="https://github.com/Ikomia-hub/infer_google_vision_landmark_detection/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/Ikomia-hub/infer_google_vision_landmark_detection.svg?color=blue">
     </a>    
     <br>
@@ -29,7 +29,7 @@ Landmark Detection using Google cloud vision API detects popular natural and hum
 **Please refer to the 'Advanced Usage' section for guidance on how to set these up.**
 
 
-![Face detection landmarks](https://raw.githubusercontent.com/Ikomia-hub/infer_google_vision_landmark_detection/main/images/output.jpg)
+![Face detection landmarks](https://raw.githubusercontent.com/Ikomia-hub/infer_google_vision_landmark_detection/main/images/output.png)
 
 *Arc De Triomphe, Latitude: 48.87379169999999, Longitude: 2.2950274999999998*
 
