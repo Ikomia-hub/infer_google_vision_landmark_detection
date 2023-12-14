@@ -29,7 +29,7 @@ Landmark Detection using Google cloud vision API detects popular natural and hum
 **Please refer to the 'Advanced Usage' section for guidance on how to set these up.**
 
 
-![Face detection landmarks](https://raw.githubusercontent.com/Ikomia-hub/infer_google_vision_landmark_detection/main/images/output.png)
+![Face detection landmarks](https://raw.githubusercontent.com/Ikomia-hub/infer_google_vision_landmark_detection/main/images/output.PNG)
 
 *Arc De Triomphe, Latitude: 48.87379169999999, Longitude: 2.2950274999999998*
 
